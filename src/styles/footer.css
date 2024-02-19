@@ -1,0 +1,45 @@
+footer {
+    margin: auto;
+    color: gray;
+    max-width: 980px;
+    padding: 0 4%;
+    gap: 1vw;
+    margin-top: 140px;
+  }
+  .social-icons{
+    color: white;
+    gap: 20px;
+  }
+  .social-icon{
+    font-size: 1vw;
+    scale: 1.5;
+    display: block;
+    margin-right: 15px;
+  }
+
+.footer-links {
+    flex-wrap: wrap;
+    font-size: 13px;
+    margin: 0 0 14px;
+    align-items: flex-start;
+    display: flex;
+  }
+  
+
+  .footer-link {
+    display: flex;
+    flex-basis: 25%;
+    margin-bottom: 15px;
+  }
+  .service-code{
+   
+
+    color: gray;
+    font-size: 15px;
+    
+    padding: 0.9vw;
+    width: fit-content;
+}
+.footer-copyright{
+    font-size: 12px;
+}
